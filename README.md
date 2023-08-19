@@ -6,7 +6,7 @@ Specify the desired solution by modifying targetFunction() in GPTree.
 
 The detailed evolution data are written onto plot_data.csv for each evolution run.
 
-# Further TODOs in mind
+# Further TODOs
 1.  TreeViewer to constantly visualize the best GPTree
 2.  GenerationViewer to constantly visualize the population (class Generation)
 3.  Visualize the console print-out messages on the EvolutionController as well, by using EvolutionComponent
